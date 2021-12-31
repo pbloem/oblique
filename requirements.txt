@@ -1,0 +1,4 @@
+Pillow
+pyyaml
+requests
+requests_oauthlib

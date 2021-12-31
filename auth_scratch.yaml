@@ -1,0 +1,19 @@
+access_token: 370172421-RYvYpmXza5HJxZYdBIFNgHiSptqWIZujBBUIBXlh
+access_token_secret: i6fuJ9IZ6gOYqhljZn8ZHRADIxJEHUAcKJdpZHmQvFtBw
+
+
+api_key: slandkucNVAAriJ9ttY94JdgV
+api_key_secret: DtdUScvpvtw7t0dksqvA1Gylq7jLF8O2ujq060O9a9J85CO7fl
+-- aka consumer key
+
+oauth_token: DfNg2wAAAAABXntJAAABfhGmFHM
+oauth_token_secret: wU7ZreQzHzMJMYZLs3UZ8cJWTX8gWNYa
+
+pin: 5473808
+
+after conn:
+oauth_token=1476964895593832449-UquXBmjxj6faL5xmA3dUtQ2F07idzG
+oauth_token_secret=Ez9RdIdH0mAlU81CqX6qdySKDv6VqzUFz5DmchceeeQmk
+
+user_id=1476964895593832449
+screen_name=obliquademia

@@ -1,0 +1,1 @@
+worker: python images.py && python post.py
