@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if jekyll.environment == "production" %}
+        <!-- goat counter -->
+	{% endif %}
+
+	{% if page.title %}
+    <title> {{page.title}} </title>
+    {% else %}
+    <title> Oblique Strategies for Academia</title>
+    {% endif%}
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/screen.oblique.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400;600&family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+	<script
+  		src="https://code.jquery.com/jquery-3.2.1.min.js"
+  		integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  		crossorigin="anonymous"></script>
+
+    <script src="/script.oblique.js"></script>
+
+    <link rel="icon" type="image/png" href="/favicon128.png" sizes="128" />
+    <link rel="icon" type="image/png" href="/favicon32.png" sizes="32,16" />
+
+  </head>
+  <body id="body" class="body {% if page.front %}home{% endif %} ">
+
+  {% if page.article %}
+    {{ content }}
+  {% else %}
+    {{ content }}
+  {% endif %}
+
+      <nav>
+        <ul>
+          <li><a href="/">random card</a></li>
+          <li><a href="/about">about</a></li>
+          <li><a href="https://github.com/pbloem/oblique">github</a></li>
+          <li><a href="https://twitter.com/obliquademia">twitter</a></li>
+          <li>by <a href="https://twitter.com/pbloemesquire">@pbloemesquire</a></li>
+        </ul>
+      </nav>
+
+  </body>
+</html>
