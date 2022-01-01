@@ -1,3 +1,6 @@
+---
+front: true
+---
 <div class="card">Work away from the computer.</div>
 <div class="card">Think more, write less.</div>
 <div class="card">Can you visualize what's happening?</div>
