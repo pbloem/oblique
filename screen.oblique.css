@@ -35,9 +35,9 @@ div.card {
 
 article {
 
-    max-width: calc(800px - 3.1em);
+    max-width: calc(800px - 4.8em);
 
-    padding: 1.3em 1.8em;
+    padding: 1.3em 2.4em;
 
     font-family: 'Roboto Slab', sans-serif;
     font-weight: 400;
