@@ -54,7 +54,7 @@ front: true
 <div class="card hidden">Work for only 10 minutes.</div>
 <div class="card hidden">Lie down on the floor.</div>
 <div class="card hidden">Work in a different place.</div>
-<div class="card hidden">Prioritize sleep</div>
+<div class="card hidden">Prioritize sleep.</div>
 <div class="card hidden">Have lunch in the park.</div>
 <div class="card hidden">Ask for help.</div>
 <div class="card hidden">Visualize the time you have left.</div>
