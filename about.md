@@ -14,6 +14,6 @@ While these strategies are probably a little bit more direct and practical than 
 * They are **oblique**. They do not apply solely and obviously to one specific situation.
 * They are **strategies**. They are not advice. The difference is that advice is always meant to be a good idea to follow (in its stated context). A strategy is sometimes good to follow, and sometimes it isn't. It's up to you. 
 
-The strategies themselves can be found in the file [strategies.txt on the github](https://github.com/pbloem/oblique/blob/main/strategies.txt). For a random card, see oblique.ink. There is also a [twitter bot](https://twitter.com/obliquademia), which posts a random strategy card twice a day.
+The strategies themselves can be found in the file [strategies.txt on the github](https://github.com/pbloem/oblique/blob/main/strategies.txt). For a random card, see [oblique.tips](https://oblique.tips). There is also a [twitter bot](https://twitter.com/obliquademia), which posts a random strategy card twice a day.
 
 
